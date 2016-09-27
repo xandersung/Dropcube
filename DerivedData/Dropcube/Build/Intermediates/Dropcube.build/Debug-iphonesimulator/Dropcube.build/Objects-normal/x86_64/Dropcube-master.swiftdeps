@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "3ea7027c3b22fed8227cfd1a66dbf365"
+build_time: [528258934, 917600000]
+inputs:
+  "/Users/lqf510/Desktop/codePath/Dropcube/Dropcube/CreateAccountViewController.swift": [528105690, 0]
+  "/Users/lqf510/Desktop/codePath/Dropcube/Dropcube/SignInRootViewController.swift": [528249870, 0]
+  "/Users/lqf510/Desktop/codePath/Dropcube/Dropcube/SignInViewController.swift": [528105690, 0]
+  "/Users/lqf510/Desktop/codePath/Dropcube/Dropcube/CreateAccountRootViewController.swift": [528249870, 0]
+  "/Users/lqf510/Desktop/codePath/Dropcube/Dropcube/TermsOfServiceViewController.swift": [528251433, 0]
+  "/Users/lqf510/Desktop/codePath/Dropcube/ForgotsViewController.swift": [528256818, 0]
+  "/Users/lqf510/Desktop/codePath/Dropcube/Dropcube/ViewController.swift": [528102866, 0]
+  "/Users/lqf510/Desktop/codePath/Dropcube/Dropcube/AppDelegate.swift": [527983220, 0]
+  "/Users/lqf510/Desktop/codePath/Dropcube/Dropcube/SettingsViewController.swift": [528256384, 0]
+  "/Users/lqf510/Desktop/codePath/Dropcube/PhotosViewController.swift": [528258934, 0]
